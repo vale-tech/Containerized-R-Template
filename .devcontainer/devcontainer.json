@@ -12,6 +12,9 @@
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
+	"remoteEnv": {
+		"NODE_EXTRA_CA_CERTS": "/usr/local/share/ca-certificates/WC-Decrypt-Cert.crt"
+  	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ikuyadeu.r",

@@ -21,6 +21,8 @@ source(here("scripts", "utilities.R"))
 
 ```
 
+Vale was here.
+
 ```{r}
 get_r_version()
 ```
